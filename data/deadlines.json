@@ -226,9 +226,19 @@
     "dependsOn": []
   },
   {
-    "id": "bc20b25a",
-    "task": "RSVP for JMHP Summer Game Night on July 9",
-    "deadline": "2026-07-09",
+    "id": "7eb3e14b",
+    "task": "Complete the mandatory Perspectives online training program for first-time students",
+    "deadline": null,
+    "priority": "high",
+    "category": "other",
+    "links": [],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "28a292c0",
+    "task": "thingy thingy",
+    "deadline": null,
     "priority": "low",
     "category": "other",
     "links": [],
@@ -236,62 +246,21 @@
     "dependsOn": []
   },
   {
-    "id": "8389bebe",
-    "task": "Reply to Chrissonia McCall confirming interest in the role",
+    "id": "22a7b371",
+    "task": "Register for HackATL 2026 hackathon",
     "deadline": null,
-    "priority": "high",
-    "category": "other",
-    "links": [],
-    "status": "completed",
-    "dependsOn": []
-  },
-  {
-    "id": "93f5ecdc",
-    "task": "Complete photo release and activity waiver",
-    "deadline": null,
-    "priority": "high",
-    "category": "other",
-    "links": [],
-    "status": "not_started",
-    "dependsOn": []
-  },
-  {
-    "id": "09177cd3",
-    "task": "Purchase South Endzone season tickets",
-    "deadline": null,
-    "priority": "high",
-    "category": "other",
-    "links": [],
-    "status": "not_started",
-    "dependsOn": []
-  },
-  {
-    "id": "233121ea",
-    "task": "Attend Ramble on the Green event",
-    "deadline": "2026-08-28",
     "priority": "medium",
     "category": "other",
-    "links": [],
-    "status": "completed",
-    "dependsOn": []
-  },
-  {
-    "id": "d0c8aaae",
-    "task": "Review move-in traffic delay information",
-    "deadline": null,
-    "priority": "low",
-    "category": "other",
-    "links": [],
-    "status": "not_started",
-    "dependsOn": []
-  },
-  {
-    "id": "ba440155",
-    "task": "Attend Presidential Search Committee: Open Forum",
-    "deadline": "2026-08-12",
-    "priority": "high",
-    "category": "other",
-    "links": [],
+    "links": [
+      {
+        "label": "registration form",
+        "url": "https://forms.gle/ec5T1WbkMYjqEAMK7"
+      },
+      {
+        "label": "event website",
+        "url": "https://hackatl.org"
+      }
+    ],
     "status": "not_started",
     "dependsOn": []
   }
