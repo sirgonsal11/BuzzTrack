@@ -106,7 +106,7 @@ app.get('/api/emails', (req, res) => {
     console.error(err);
     res.status(500).json({ error: 'Could not read emails' });
   }
-});
+});  
 
 // ============================================================
 // POST /api/parse-email — parse a raw email into a checklist item,
