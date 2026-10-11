@@ -1,0 +1,298 @@
+[
+  {
+    "id": "99c627e9",
+    "task": "Pay $200 housing deposit",
+    "deadline": "2026-08-01",
+    "priority": "high",
+    "category": "housing",
+    "links": [
+      {
+        "label": "Housing Portal",
+        "url": "https://housing.gatech.edu"
+      }
+    ],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "e9b36ac0",
+    "task": "Complete self check-in for housing assignment",
+    "deadline": "2026-08-01",
+    "priority": "high",
+    "category": "housing",
+    "links": [],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "c68dd479",
+    "task": "Submit all financial documentation",
+    "deadline": "2026-06-01",
+    "priority": "high",
+    "category": "financial",
+    "links": [],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "92c7df0c",
+    "task": "Select a move-in appointment",
+    "deadline": "2026-06-17",
+    "priority": "high",
+    "category": "housing",
+    "links": [],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "4b94e2ac",
+    "task": "Send final transcripts to the admissions office",
+    "deadline": null,
+    "priority": "high",
+    "category": "registration",
+    "links": [],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "3f05fb8c",
+    "task": "Pay $300 enrollment deposit",
+    "deadline": "2026-06-01",
+    "priority": "high",
+    "category": "financial",
+    "links": [
+      {
+        "label": "Admissions Portal",
+        "url": "https://admissions.gatech.edu"
+      }
+    ],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "09c26e6d",
+    "task": "Register for Fall 2026 classes",
+    "deadline": "2026-07-20",
+    "priority": "high",
+    "category": "registration",
+    "links": [
+      {
+        "label": "OSCAR registration portal",
+        "url": "https://oscar.gatech.edu"
+      }
+    ],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "24342f3f",
+    "task": "Pay outstanding balance",
+    "deadline": null,
+    "priority": "high",
+    "category": "financial",
+    "links": [
+      {
+        "label": "Housing Portal",
+        "url": "https://myhousing.gatech.edu"
+      }
+    ],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "abacc4e1",
+    "task": "Attend Hack Ignite Pitch Party at 3:30 in Klaus 1456",
+    "deadline": null,
+    "priority": "high",
+    "category": "other",
+    "links": [],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "c5aa2d27",
+    "task": "Complete Academic Planning Project assignments (Degree Plan, Reflection Sheet, and Campus Resource Scavenger Hunt)",
+    "deadline": "2026-07-17",
+    "priority": "high",
+    "category": "other",
+    "links": [
+      {
+        "label": "Degree Works Plans information",
+        "url": "https://registrar.gatech.edu/info/degree-works-plans"
+      },
+      {
+        "label": "Major Profiles resource",
+        "url": "https://www.success.gatech.edu/major-profiles/"
+      }
+    ],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "7f8fc7e4",
+    "task": "Review student account for outstanding balances and recent activity",
+    "deadline": null,
+    "priority": "low",
+    "category": "financial",
+    "links": [
+      {
+        "label": "Housing Portal",
+        "url": "https://myhousing.gatech.edu"
+      }
+    ],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "d424498a",
+    "task": "Review and accept 2025-2026 financial aid offers in OSCAR",
+    "deadline": null,
+    "priority": "high",
+    "category": "financial",
+    "links": [],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "bdbbb89d",
+    "task": "Fill out Ignite Hackathon data collection form for peers",
+    "deadline": null,
+    "priority": "high",
+    "category": "other",
+    "links": [
+      {
+        "label": "Ignite Hackathon form",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd2MSZpacf50mC7CiM7s65yFHiTdVH9fjTbelpB8-T0oFPErg/viewform?usp=sharing&ouid=109300031147735186728"
+      }
+    ],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "f64a24c2",
+    "task": "Apply for summer housing",
+    "deadline": "2026-06-01",
+    "priority": "high",
+    "category": "housing",
+    "links": [],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "5af638d3",
+    "task": "Complete the online Housing Welcome Guide",
+    "deadline": null,
+    "priority": "medium",
+    "category": "housing",
+    "links": [],
+    "status": "not_started",
+    "dependsOn": []
+  },
+  {
+    "id": "5c997eba",
+    "task": "Enroll in the John H. Martinson Honors Program",
+    "deadline": null,
+    "priority": "medium",
+    "category": "registration",
+    "links": [],
+    "status": "completed",
+    "dependsOn": [
+      "d424498a"
+    ]
+  },
+  {
+    "id": "52add430",
+    "task": "Review and update Fall 2026 meal plan before deadline",
+    "deadline": "2026-08-19",
+    "priority": "high",
+    "category": "other",
+    "links": [],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "217a0934",
+    "task": "Attend FYWE Student Assistant/Peer Leader interview via Microsoft Teams",
+    "deadline": null,
+    "priority": "high",
+    "category": "other",
+    "links": [
+      {
+        "label": "Microsoft Teams meeting link",
+        "url": "https://teams.microsoft.com/meet/262760348672409?p=QWWRmT6y9Y243a7tKr"
+      }
+    ],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "bc20b25a",
+    "task": "RSVP for JMHP Summer Game Night on July 9",
+    "deadline": "2026-07-09",
+    "priority": "low",
+    "category": "other",
+    "links": [],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "8389bebe",
+    "task": "Reply to Chrissonia McCall confirming interest in the role",
+    "deadline": null,
+    "priority": "high",
+    "category": "other",
+    "links": [],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "93f5ecdc",
+    "task": "Complete photo release and activity waiver",
+    "deadline": null,
+    "priority": "high",
+    "category": "other",
+    "links": [],
+    "status": "not_started",
+    "dependsOn": []
+  },
+  {
+    "id": "09177cd3",
+    "task": "Purchase South Endzone season tickets",
+    "deadline": null,
+    "priority": "high",
+    "category": "other",
+    "links": [],
+    "status": "not_started",
+    "dependsOn": []
+  },
+  {
+    "id": "233121ea",
+    "task": "Attend Ramble on the Green event",
+    "deadline": "2026-08-28",
+    "priority": "medium",
+    "category": "other",
+    "links": [],
+    "status": "completed",
+    "dependsOn": []
+  },
+  {
+    "id": "d0c8aaae",
+    "task": "Review move-in traffic delay information",
+    "deadline": null,
+    "priority": "low",
+    "category": "other",
+    "links": [],
+    "status": "not_started",
+    "dependsOn": []
+  },
+  {
+    "id": "ba440155",
+    "task": "Attend Presidential Search Committee: Open Forum",
+    "deadline": "2026-08-12",
+    "priority": "high",
+    "category": "other",
+    "links": [],
+    "status": "not_started",
+    "dependsOn": []
+  }
+]
