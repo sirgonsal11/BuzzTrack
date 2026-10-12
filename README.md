@@ -2,7 +2,7 @@
 
 A Georgia Tech onboarding assistant that turns messy new-student emails into a checklist, then answers questions using only the emails and tasks you’ve added.
 
-Built for Ignite Hackathon. Paste an email, extract the task, deadline, and links, track progress, and ask a grounded chatbot what still needs to get done.
+Paste an email, extract the task, deadline, and links, track progress, and ask a grounded chatbot what still needs to get done.
 
 ## Features
 
@@ -19,8 +19,8 @@ Built for Ignite Hackathon. Paste an email, extract the task, deadline, and link
 | --- | --- |
 | Runtime | Node.js |
 | Server | Express |
-| Frontend | Single-page `public/index.html` (no framework) |
-| Storage | JSON files in `data/` (no database) |
+| Frontend | Single-page `public/index.html`
+| Storage | JSON files in `data/`
 | LLM | Groq Chat Completions API (`openai/gpt-oss-120b`) |
 
 ## Project structure
@@ -125,7 +125,3 @@ Guide: https://housing.gatech.edu
 - The parser is instructed to extract **one** prominent task per email, use only URLs present in the text, and never invent links.
 - Completing a task is self-reported. The app does not log into OSCAR, BuzzPort, or housing portals to verify.
 - If Groq’s model list changes and parse/chat start failing, update `GROQ_MODEL` in `server.js` to a current model from [Groq’s model docs](https://console.groq.com/docs/models).
-
-## License
-
-Built as a hackathon / portfolio project. Use and adapt with attribution unless a license file is added later.
